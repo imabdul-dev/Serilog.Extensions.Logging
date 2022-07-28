@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Unofficial.Serilog.Extensions.Logging</id>
+    <version>3.1.1</version>
+    <title>Serilog Extensions Logging</title>
+    <authors>Abdul Rauf</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/imabdul-dev/Serilog.Extensions.Logging</projectUrl>
+    <icon>icon.png</icon>
+    <description>Low-level Serilog provider for Microsoft.Extensions.Logging.</description>
+    <summary>Low-level Serilog provider for Microsoft.Extensions.Logging.</summary>
+    <releaseNotes>Unofficial Serilog plugin for Xamarin Forms.</releaseNotes>
+    <tags>abdul MvvmCross mvvm xamarin xamarinforms xamarin.android xamarin.ios mvvm android ios network serilog.extensions.logging abdul.Serilog.Extensions.Logging</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Serilog" version="2.12.0-dev-01451" />
+        <dependency id="Microsoft.Extensions.Logging" version="7.0.0-preview.6.22324.4" />
+      </group>
+    </dependencies>
+  </metadata>
+      <files>
+        <file src="icon.png" target="" />
+    </files>
+</package>
