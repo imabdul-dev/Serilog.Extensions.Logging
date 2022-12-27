@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Unofficial.Serilog.Extensions.Logging</id>
-    <version>3.1.1-dev-10301</version>
+    <version>3.2</version>
     <title>Serilog Extensions Logging</title>
     <authors>Abdul Rauf</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
